@@ -1,7 +1,9 @@
 **/order-consumer/.mvn/*
 */order-consumer/mvnw
 /order-consumer/mvnw
+/order-consumer/mvnw.cmd
 
 **/order-producer/.mvn/*
 */order-producer/mvnw
 /order-producer/mvnw
+/order-producer/mvnw.cmd
